@@ -5,4 +5,4 @@ TOPICS
 - Principal factors of heart diseases
 - Techniques to handle unbalanced data
 - Machine learning process for a classification problem :data pre-processing and optimization
-Go to https://nbviewer.org/github/arisolises/Predicting-Heart-Diseases/blob/main/Predicting_Heart_Diseases.ipynb for full format of the project
+- Go to https://nbviewer.org/github/arisolises/Predicting-Heart-Diseases/blob/main/Predicting_Heart_Diseases.ipynb for full format of the project
